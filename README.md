@@ -1,2 +1,15 @@
-# cristalix-autoreg
-Авторегер аккаунтов cristalix.gg, only for educational purposes only
+# Autoreg cri
+### !!! Only for educational purposes only !!!
+
+Установка:
+```
+pip install selenium pystyle undetected_chromedriver requests
+```
+
+Запуск:
+
+```
+python main.py
+```
+
+Все аккаунти храняться в acc.txt
