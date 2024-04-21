@@ -1,4 +1,5 @@
-# Autoreg cri
+# Autoreg cristalix
+
 ### !!! Only for educational purposes only !!!
 
 Установка:
